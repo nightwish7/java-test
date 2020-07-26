@@ -19,8 +19,6 @@ public class jdbc_test {
 //        stmt.close();
 //        conn.close();
 
-
-        //qaq
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入用户名");
         String username = sc.nextLine();
